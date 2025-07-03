@@ -33,5 +33,5 @@ This repository is intended **for educational purposes only**. It helps in learn
 ## 👨‍💻 Author
 
 **Sambit Pati**  
-🔗 [LinkedIn](https://www.linkedin.com/in/sambit1803/)  
+🔗 [LinkedIn](www.linkedin.com/in/sambit-pati)  
 📧 sambitsipun@gmail.com
